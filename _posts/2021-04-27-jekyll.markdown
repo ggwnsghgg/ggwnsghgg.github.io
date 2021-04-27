@@ -2,7 +2,7 @@
 layout: post
 title:  "첫 블로그 개설"
 date:   2021-04-27 13:14:46 +0530
-categories: Jekyll, GitHub
+categories: Jekyll GitHub
 ---
 Github 블로그를 개설했습니다! 정말 이것저것 다른 테마를 이용해서 만들어 봤지만
 이제야 됬군요 앞으로 블로그 겸 포트폴리오 으로도 사용할 수 있도록 하겠습니다 !!	
