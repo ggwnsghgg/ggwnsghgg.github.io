@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "VsCode Python 오류..."
+date:   2021-04-29 23:03:37 +0530
+categories: Python
+---
+하루종일 vscode와 이력서로 씨름했네요..
+
+![My helpful screenshot](/assets/vcsode_error.png)
+![My helpful screenshot](/assets/vcsode_error.ver.png)
+
+이놈의 vscode에서 갑자기 Python 확장 관련하여 오류가 떠서
+계속 씨름했습니다.. 그래도 역시 구글링이 최고라고.. 결국엔 찾아서
+해결했습니다 !!
+
+![My helpful screenshot](/assets/vcsode_clear.png)
+
+고마워요 스택 !
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
