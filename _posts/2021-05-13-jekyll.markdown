@@ -9,16 +9,17 @@ categories: Python, odoo
 
 드디어 취업에 성공했습니다 !!
 실력이 많이 부족해서 잘 될 수있을가 했지만
-그래도 저의 좋은점을 알아주시고 뽑아주신 회사에 감사합니다 !
-ㄴ
+그래도 저의 좋은점을 알아주시고 뽑아주신 회사에 감사합니다
+
 회사는 odoo 오픈소스를 개발하는 회사 이였습니다.
-![error](/assets/odoo_main.PNG)
+
+![odoo](/assets/odoo_main.png)
 
 
 제대로 오픈소스를 개발해본적이 없어서 많이 긴장되네요 
 앞으로 열심히 공부해서 백엔드 개발자부터 풀스택 개발자가 되도록 하겠습니다
 
-![odoo_main2](/assets/odoo_erp.PNG)
+![odoo_main2](/assets/odoo_erp.png)
 
 
 대부분 자료들이 아예 영어라... 역시 조금 힘들군요
